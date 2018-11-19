@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "region": "us-east-1"
+    },
+    "prod": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "region": "us-east-1"
+    }
+}

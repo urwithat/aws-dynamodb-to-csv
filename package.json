@@ -1,0 +1,14 @@
+{
+  "name": "dynamodbexportcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atif Ali Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "dynamodbexportcsv": "0.2.4"
+  }
+}
